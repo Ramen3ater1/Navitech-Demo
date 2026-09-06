@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1428"/>
+      <stop offset="1" stop-color="#0f3a3a"/>
+    </linearGradient>
+    <pattern id="dots" width="42" height="42" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#34d399" opacity="0.22"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <g>
+    <circle cx="1227" cy="132" r="182" fill="#34d399" opacity="0.13"/>
+    <circle cx="211" cy="740" r="186" fill="#34d399" opacity="0.09"/>
+    <circle cx="619" cy="557" r="124" fill="#34d399" opacity="0.10"/>
+    <circle cx="955" cy="127" r="178" fill="#34d399" opacity="0.11"/>
+    <circle cx="1408" cy="605" r="165" fill="#34d399" opacity="0.12"/>
+  </g>
+  <g>
+    <path d="M-50 952 C 695 661, 907 1186, 1650 1070" stroke="#34d399" stroke-width="1.5" fill="none" opacity="0.27"/>
+    <path d="M-50 567 C 531 327, 1159 518, 1650 513" stroke="#34d399" stroke-width="2.6" fill="none" opacity="0.28"/>
+    <path d="M-50 944 C 501 782, 1094 619, 1650 708" stroke="#34d399" stroke-width="1.5" fill="none" opacity="0.22"/>
+    <path d="M-50 318 C 668 360, 1132 133, 1650 80" stroke="#34d399" stroke-width="1.2" fill="none" opacity="0.18"/>
+    <path d="M-50 461 C 719 239, 1204 737, 1650 610" stroke="#34d399" stroke-width="2.5" fill="none" opacity="0.28"/>
+    <path d="M-50 739 C 619 1076, 1050 1063, 1650 570" stroke="#34d399" stroke-width="2.1" fill="none" opacity="0.29"/>
+    <path d="M-50 408 C 495 705, 1115 408, 1650 573" stroke="#34d399" stroke-width="2.4" fill="none" opacity="0.19"/>
+  </g>
+</svg>
